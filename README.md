@@ -5,6 +5,7 @@ Repositório criado para a disciplina de Projeto de Software 2021.2 - UFAL.
 [Rede de Relacionamentos.pdf](https://github.com/lilianfabricio/iFace/files/8383485/Rede.de.Relacionamentos.pdf)
 
 1 Criação de Conta 
+
 Permita a um usuário criar uma conta no iFace. Deve ser fornecido um login, uma senha e um nome com o qual o usuário será conhecido na rede. 
 
 2 Criação/Edição de Perfil 
